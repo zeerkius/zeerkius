@@ -1,13 +1,14 @@
 # Hi there 👋 I'm Basil Agboola
 
 🎓 **Computer Science & Data Science Student** at Prairie View A&M University (PVAMU)  
-💼 **Incoming Applications Engineering Intern** at Oracle  
+💼 **Incoming Software Engineering Intern** at Oracle (Summer 2025)  
 🔬 **Research Assistant** passionate about AI and medical imaging  
-📍 Based in Texas, USA
+📍 Based in Houston, TX  
+✉️ agboola720@gmail.com 
 
 ---
 
-## 🧠 About Me
+## 🧐 About Me
 
 I'm a dedicated Computer Science major with a minor in Data Science at PVAMU, currently serving as a Research Assistant. My academic and professional journey is driven by a passion for scientific research and the application of AI in healthcare.
 
@@ -31,11 +32,44 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 📫 Connect with Me
+## 👨‍💻 Experience
+
+- **Software Engineering Intern @ Oracle** (May 2025)  
+- **Research Assistant @ PVAMU** (Oct 2024 – Present)  
+  - Implemented regression models from scratch (Linear, Logistic, Non-Linear)
+  - Used Chi-Square test for feature importance in breast cancer prediction
+  - Created K-NN and Decision Tree models using SciPy
+  - Presented findings through a research poster
+
+- **Undergraduate Researcher @ NSF** (Jun 2024 – Aug 2024)  
+  - Built a Convolutional Neural Network using TensorFlow
+  - Used TensorBoard for model visualization
+  - Classified 1,200+ images of skin lesions
+
+---
+
+## 🧠 Skills
+
+**Programming Languages:** Python, MySQL, Maple  
+**Tools & Libraries:** TensorFlow, SciPy, Pandas, Matplotlib, Visual Studio  
+**Concepts:** Regression, CNNs, Feature Engineering, Statistical Testing  
+**Math:** Advanced Calculus, Linear Algebra, Discrete Math, Formal Proofing  
+**Other:** ER Diagrams, Software Documentation, Project Management
+
+---
+
+## 📊 Coding Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeerkius&layout=compact&theme=default)
+
+---
+
+## 📢 Connect with Me
 
 - GitHub: [zeerkius](https://github.com/zeerkius)  
 - LinkedIn: [Basil Agboola](https://www.linkedin.com/in/basilagboola/)  
-- LeetCode: [basl65ik](https://leetcode.com/u/basl65ik/)
+- LeetCode: [basl65ik](https://leetcode.com/u/basl65ik/)  
+- Email: agboola720@gmail.com  
 
 ---
 
@@ -45,5 +79,9 @@ I'm deeply interested in:
 
 - Artificial Intelligence & Machine Learning  
 - Medical Imaging & Healthcare Technology  
-- Embedded AI Hardware
-  
+- Data Science & Analytics  
+- Software Engineering  
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any of my projects!
