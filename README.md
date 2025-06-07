@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Basil Agboola
 
 🎓 **Computer Science & Data Science Student** at Prairie View A&M University (PVAMU)  
-💼 **Incoming Software Engineering Intern** at Oracle (Summer 2025)  
+💼 **Application Engineering Intern** at Oracle (Summer 2025)  
 🔬 **Research Assistant** passionate about AI and medical imaging  
 📍 Based in Houston, TX  
 ✉️ agboola720@gmail.com 
@@ -34,7 +34,9 @@ Here are some of the projects I've worked on:
 
 ## 👨‍💻 Experience
 
-- **Software Engineering Intern @ Oracle** (May 2025)  
+- **Application Engineering Intern @ Oracle** (May 2025)
+y
+  - 
 - **Research Assistant @ PVAMU** (Oct 2024 – Present)  
   - Implemented regression models from scratch (Linear, Logistic, Non-Linear)
   - Used Chi-Square test for feature importance in breast cancer prediction
