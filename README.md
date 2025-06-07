@@ -30,41 +30,11 @@ Here are some of the projects I've worked on:
 - **[color_clustering](https://github.com/zeerkius/color_clustering)**:  
   An algorithm that utilizes k-means clustering to sort pictures based on their color similarity.
 
----
-
-## 👨‍💻 Experience
-
-- **Application Engineering Intern @ Oracle** (May 2025)
-y
-  - 
-- **Research Assistant @ PVAMU** (Oct 2024 – Present)  
-  - Implemented regression models from scratch (Linear, Logistic, Non-Linear)
-  - Used Chi-Square test for feature importance in breast cancer prediction
-  - Created K-NN and Decision Tree models using SciPy
-  - Presented findings through a research poster
-
-- **Undergraduate Researcher @ NSF** (Jun 2024 – Aug 2024)  
-  - Built a Convolutional Neural Network using TensorFlow
-  - Used TensorBoard for model visualization
-  - Classified 1,200+ images of skin lesions
-
----
-
-## 🧠 Skills
-
-**Programming Languages:** Python, MySQL, Maple  
-**Tools & Libraries:** TensorFlow, SciPy, Pandas, Matplotlib, Visual Studio  
-**Concepts:** Regression, CNNs, Feature Engineering, Statistical Testing  
-**Math:** Advanced Calculus, Linear Algebra, Discrete Math, Formal Proofing  
-**Other:** ER Diagrams, Software Documentation, Project Management
-
----
 
 ## 📊 Coding Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeerkius&layout=compact&theme=default)
 
----
 
 ## 📢 Connect with Me
 
