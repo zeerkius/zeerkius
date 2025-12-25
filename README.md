@@ -3,8 +3,6 @@
 Machine Learning & Quantitative Research Engineer  
 BS Computer Science (Minor in Mathematics) | Aspiring PhD in Statistics  
 
-Building ML systems from first principles with **statistical rigor, performance, and interpretability**.
-
 ---
 
 ### 🔥 Signature Project — LavaLamp
@@ -26,11 +24,11 @@ Focus: **from-scratch algorithms, Rust-powered efficiency, research-grade evalua
 ---
 
 ### 🛠 Languages & Tools
-![Rust](https://img.shields.io/badge/Rust-90%25-orange) ![Python](https://img.shields.io/badge/Python-10%25-blue) ![SQL](https://img.shields.io/badge/SQL-5%25-lightgrey)
+![Rust](https://img.shields.io/badge/Rust-90%25-orange) ![Python](https://img.shields.io/badge/Python-10%25-blue)
 
 - Rust — high-performance ML implementations  
 - Python — data analysis & prototyping  
-- SQL — structured data handling  
+  
 
 ---
 
