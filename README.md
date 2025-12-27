@@ -1,7 +1,7 @@
 ## Basil Agboola
 
 Machine Learning & Quantitative Research Engineer  
-BS Computer Science (Minor in Mathematics) | Aspiring PhD in Statistics  
+BS Computer Science (Minor in Data Science) | Aspiring PhD in Statistics  
 
 ---
 
